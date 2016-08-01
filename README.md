@@ -1,3 +1,2 @@
-﻿# YGKR-Repo
-# TEST
+# YGKR-Repo
 YGKRのレポジトリだよ
